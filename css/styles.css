@@ -1,5 +1,5 @@
 body{
-    font-family: Montserrat;
+    font-family: "Montserrat";
 }
 #title{
     background-color: #ff4c68;
@@ -15,6 +15,17 @@ h1{
     font-weight:900 ;
     
 }
+h2{
+    font-family: "montserrat";
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+}
 .navbar{
     padding-bottom: 4.5rem;
 }
@@ -29,4 +40,42 @@ h1{
 }
 .download-button{
     margin: 5% 3% 5% 0;
+}
+.Title-image{
+    width: 60%;
+    transform: rotate(26deg);
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #EF8172;
+    margin-bottom: 1rem;
+
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    padding: 7% 15%;
+    background-color: #EF8172;
+    text-align: center;
+    color: #fff;
+}
+.test-img{
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+#press{
+    background-color: #EF8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
 }
