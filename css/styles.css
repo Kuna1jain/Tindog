@@ -105,3 +105,27 @@ h3{
         text-align: center;
     }
 }
+#cta{
+    background-color: #ff4c68;
+    padding: 5% 15%;
+    text-align: center;
+}
+#lower{
+    color: #fff;
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:900 ;
+}
+#footer{
+    text-align: center;
+    padding: 5%;
+    
+}
+.social-icon{
+    margin: 0.5% 0.5%;
+}
+#cr{
+    color:slategray;
+    
+}
